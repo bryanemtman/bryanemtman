@@ -1,4 +1,4 @@
-<h1>Hi, I'm Bryan! <br/><a href="https://github.com/bryanemtman">Programmer</a>, <a href="https://www.linkedin.com/in/bryanemtman/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Bryan! Aspiring <br/><a href="https://github.com/bryanemtman">Programmer</a>, <a href="https://www.linkedin.com/in/bryanemtman/">Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
