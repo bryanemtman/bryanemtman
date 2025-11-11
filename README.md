@@ -15,7 +15,7 @@
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - [Subdomain Enumeration Script (asynchronous)](https://github.com/bryanemtman/Python/Subdomain-Enumeration)
+  - [Subdomain Enumeration Script (asynchronous)](https://github.com/bryanemtman/Python/tree/main/Subdomain-Enumeration)
   - [Diffie-Hellman Key Exchange Script (Uses the Caesar Cipher)](https://github.com/bryanemtman/Python)
 - <b>Webpage Development</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
