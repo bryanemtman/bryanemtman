@@ -19,10 +19,11 @@
   - [Diffie-Hellman Key Exchange Script (Uses the Caesar Cipher)](https://github.com/bryanemtman/Python)
 - <b>Webpage Development</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Portfolio Website Example](https://github.com/bryanemtman/webpages)
 - <b>Cybersecurity Labs</b>
-  - [Setting up domain controllers in Windows Server virtual machines (DNS, DHCP, Active Directory)](https://github.com/bryanemtman)
-  - [Configuring Azure-based SIEMs with IDS integration](https://github.com/bryanemtman)
-  - [Managing IAM using Azure Active Directory](https://github.com/bryanemtman)
+  - [Setting up domain controllers in Windows Server virtual machines (DNS, DHCP, Active Directory)](https://github.com/bryanemtman/cybersecurity-labs)
+  - [Configuring Azure-based SIEMs with IDS integration](https://github.com/bryanemtman/cybersecurity-labs)
+  - [Managing IAM using Azure Active Directory](https://github.com/bryanemtman/cybersecurity-labs)
 
 
 <h2>🔗 Connect with me:</h2>
