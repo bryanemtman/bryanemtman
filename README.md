@@ -14,9 +14,10 @@
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Subdomain Enumeration Script (asynchronous)](https://github.com/bryanemtman/Python/tree/main/Subdomain-Enumeration)
-  - [Diffie-Hellman Key Exchange Script (Uses the Caesar Cipher)](https://github.com/bryanemtman/Python)
+  - [Diffie-Hellman Key Exchange Script](https://github.com/bryanemtman/Python/tree/main/Diffie-Hellman)
+  - [Caesar Cipher Scripts](https://github.com/bryanemtman/Python/tree/main/Caesar)
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b>Webpage Development</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
   - [Portfolio Website Example](https://github.com/bryanemtman/webpages)
