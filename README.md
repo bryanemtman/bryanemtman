@@ -3,11 +3,13 @@
 <h2>🖥️ Software Development Projects:</h2>
 
 - <b>Bash</b>
-  - [Reverse Shell Script](https://github.com/bryanemtman/Bash-Scripts)
+  - [Reverse Shell Scripts](https://github.com/bryanemtman/Bash-Scripts)
   - [SSH Dictionary Attack Over Multiple IPs (Email Notification Capabilities)](https://github.com/bryanemtman/Bash-Scripts)
   - [Dictionary Attack for Local Accounts](https://github.com/bryanemtman/Bash-Scripts)
   - [Port Scanning With Netcat](https://github.com/bryanemtman/Bash-Scripts)
   - [Multi Host Ping](https://github.com/bryanemtman/Bash-Scripts)
+  - [ARP Spoofing](https://github.com/bryanemtman/Bash-Scripts)
+  - [ICMP Payload Script](https://github.com/bryanemtman/Bash-Scripts)
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
