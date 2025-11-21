@@ -8,8 +8,7 @@
   - [Dictionary Attack for Local Accounts](https://github.com/bryanemtman/Bash-Scripts)
   - [Port Scanning With Netcat](https://github.com/bryanemtman/Bash-Scripts)
   - [Multi Host Ping](https://github.com/bryanemtman/Bash-Scripts)
-  - [ARP Spoofing](https://github.com/bryanemtman/Bash-Scripts)
-  - [ICMP Payload Script](https://github.com/bryanemtman/Bash-Scripts)
+  - [ICMP Payload Script](https://github.com/bryanemtman/Bash-Scripts/tree/main/ICMP-Payload)
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
@@ -19,6 +18,7 @@
   - [Subdomain Enumeration Script (asynchronous)](https://github.com/bryanemtman/Python/tree/main/Subdomain-Enumeration)
   - [Diffie-Hellman Key Exchange Script](https://github.com/bryanemtman/Python/tree/main/Diffie-Hellman)
   - [Caesar Cipher Scripts](https://github.com/bryanemtman/Python/tree/main/Caesar)
+  - [ARP Spoofing](https://github.com/bryanemtman/Python)
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b>Webpage Development</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
