@@ -6,7 +6,7 @@
   - [ICMP Payload Script (Customizable)](https://github.com/bryanemtman/Bash-Scripts/tree/main/ICMP-Payload)
   - [SSH Dictionary Attack (Email Notification Capabilities)](https://github.com/bryanemtman/Bash-Scripts/tree/main/SSH-Dictionary-Attack)
   - [Dictionary Attack for Local Accounts](https://github.com/bryanemtman/Bash-Scripts) (...In Progress)
-  - [Port Scanning With Netcat](https://github.com/bryanemtman/Bash-Scripts) (...In Progress)
+  - [Port Scanning With Netcat](https://github.com/bryanemtman/Bash-Scripts/tree/main/Netcat-Port-Scan)
   - [Multi-Host Ping](https://github.com/bryanemtman/Bash-Scripts/tree/main/Multi-Host-Ping)
   - [Subnetting Script](https://github.com/bryanemtman/Bash-Scripts/tree/main/Subnetting)
 - <b>PowerShell</b>
