@@ -4,7 +4,7 @@
 
 - <b>Bash</b>
   - [Reverse Shell Scripts](https://github.com/bryanemtman/Bash-Scripts) (...In Progress)
-  - [SSH Dictionary Attack Over Multiple IPs (Email Notification Capabilities)](https://github.com/bryanemtman/Bash-Scripts) (...In Progress)
+  - [SSH Dictionary Attack (Email Notification Capabilities)](https://github.com/bryanemtman/Bash-Scripts/tree/main/SSH-Dictionary-Attack)
   - [Dictionary Attack for Local Accounts](https://github.com/bryanemtman/Bash-Scripts) (...In Progress)
   - [Port Scanning With Netcat](https://github.com/bryanemtman/Bash-Scripts) (...In Progress)
   - [Multi-Host Ping Script](https://github.com/bryanemtman/Bash-Scripts/tree/main/Multi-Host-Ping)
