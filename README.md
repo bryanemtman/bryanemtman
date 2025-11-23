@@ -3,13 +3,12 @@
 <h2>🖥️ Software Development Projects:</h2>
 
 - <b>Bash</b>
-  - [Reverse Shell Scripts](https://github.com/bryanemtman/Bash-Scripts) (...In Progress)
+  - [ICMP Payload Script (Customizable)](https://github.com/bryanemtman/Bash-Scripts/tree/main/ICMP-Payload)
   - [SSH Dictionary Attack (Email Notification Capabilities)](https://github.com/bryanemtman/Bash-Scripts/tree/main/SSH-Dictionary-Attack)
   - [Dictionary Attack for Local Accounts](https://github.com/bryanemtman/Bash-Scripts) (...In Progress)
   - [Port Scanning With Netcat](https://github.com/bryanemtman/Bash-Scripts) (...In Progress)
-  - [Multi-Host Ping Script](https://github.com/bryanemtman/Bash-Scripts/tree/main/Multi-Host-Ping)
-  - [ICMP Payload Script](https://github.com/bryanemtman/Bash-Scripts/tree/main/ICMP-Payload)
-  - [Subnetting Script (Output to File)](https://github.com/bryanemtman/Bash-Scripts/tree/main/Subnetting)
+  - [Multi-Host Ping](https://github.com/bryanemtman/Bash-Scripts/tree/main/Multi-Host-Ping)
+  - [Subnetting Script](https://github.com/bryanemtman/Bash-Scripts/tree/main/Subnetting)
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
