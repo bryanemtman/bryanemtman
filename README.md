@@ -4,7 +4,7 @@
 
 - <b>Bash</b>
   - [ICMP Payload Script (Customizable)](https://github.com/bryanemtman/Bash-Scripts/tree/main/ICMP-Payload)
-  - [SSH Dictionary Attack (Email Notification Capabilities)](https://github.com/bryanemtman/Bash-Scripts/tree/main/SSH-Dictionary-Attack) (...in progress)
+  - [SSH Dictionary Attack (Email Notification Capabilities)](https://github.com/bryanemtman/Bash-Scripts/tree/main/SSH-Dictionary-Attack) (...In Progress)
   - [Enumeration and Dictionary Attack for Local Accounts](https://github.com/bryanemtman/Bash-Scripts/tree/main/Local-Account-Attack)
   - [Port Scanning With Netcat](https://github.com/bryanemtman/Bash-Scripts/tree/main/Netcat-Port-Scan)
   - [Multi-Host Ping](https://github.com/bryanemtman/Bash-Scripts/tree/main/Multi-Host-Ping)
@@ -19,10 +19,9 @@
   - [Diffie-Hellman Key Exchange Script](https://github.com/bryanemtman/Python/tree/main/Diffie-Hellman)
   - [Caesar Cipher Scripts](https://github.com/bryanemtman/Python/tree/main/Caesar)
   - [ARP Spoofing](https://github.com/bryanemtman/Python) (...In Progress)
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b>Webpage Development</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
-  - [Portfolio Website Example](https://github.com/bryanemtman/webpages) (...In Progress)
+  - [Portfolio Website Example (static)](https://github.com/bryanemtman/webpages) (...In Progress)
+  - [Login Page (Input Validation)](https://github.com/bryanemtman/webpages) (...In Progress)
 - <b>Cybersecurity Labs</b>
   - [Setting up domain controllers in Windows Server virtual machines (DNS, DHCP, Active Directory)](https://github.com/bryanemtman/cybersecurity-labs) (...In Progress)
   - [Configuring Azure-based SIEMs with IDS integration](https://github.com/bryanemtman/cybersecurity-labs) (...In Progress)
