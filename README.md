@@ -15,7 +15,7 @@
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>Python</b>
-  - [ARP Spoofing & Man-in-the-Middle Script](https://github.com/bryanemtman/Python)
+  - [ARP Spoofing & Man-in-the-Middle Script](https://github.com/bryanemtman/Python/tree/main/ARP-Spoofing-MITM)
   - [Subdomain Enumeration Script (asynchronous)](https://github.com/bryanemtman/Python/tree/main/Subdomain-Enumeration)
   - [Diffie-Hellman Key Exchange Script](https://github.com/bryanemtman/Python/tree/main/Diffie-Hellman)
   - [Caesar Cipher Scripts](https://github.com/bryanemtman/Python/tree/main/Caesar)
