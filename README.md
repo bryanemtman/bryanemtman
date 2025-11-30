@@ -11,9 +11,10 @@
   - [Subnetting Script](https://github.com/bryanemtman/Bash-Scripts/tree/main/Subnetting)
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Port-scanning with PowerShell](https://github.com/bryanemtman/) (...In Progress)
+  - [ICMP Payload Script (PowerShell Version)](https://github.com/bryanemtman/) (...In Progress)
 - <b>Python</b>
   - [ARP Spoofing & Man-in-the-Middle Script](https://github.com/bryanemtman/Python/tree/main/ARP-Spoofing-MITM)
   - [Subdomain Enumeration Script (asynchronous)](https://github.com/bryanemtman/Python/tree/main/Subdomain-Enumeration)
