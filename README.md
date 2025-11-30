@@ -3,8 +3,8 @@
 <h2>🖥️ Software Development Projects:</h2>
 
 - <b>Bash</b>
-  - [ICMP Payload Script (Customizable)](https://github.com/bryanemtman/Bash-Scripts/tree/main/ICMP-Payload)
-  - [SSH Dictionary Attack (Email Notification Capabilities)](https://github.com/bryanemtman/Bash-Scripts/tree/main/SSH-Dictionary-Attack) (...In Progress)
+  - [ICMP Payload Script](https://github.com/bryanemtman/Bash-Scripts/tree/main/ICMP-Payload)
+  - [SSH Dictionary Attack (With Discord Notification)](https://github.com/bryanemtman/Bash-Scripts/tree/main/SSH-Dictionary-Attack)
   - [Enumeration and Dictionary Attack for Local Accounts](https://github.com/bryanemtman/Bash-Scripts/tree/main/Local-Account-Attack)
   - [Port Scanning With Netcat](https://github.com/bryanemtman/Bash-Scripts/tree/main/Netcat-Port-Scan)
   - [Multi-Host Ping](https://github.com/bryanemtman/Bash-Scripts/tree/main/Multi-Host-Ping)
@@ -15,10 +15,10 @@
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>Python</b>
+  - [ARP Spoofing & Man-in-the-Middle Script](https://github.com/bryanemtman/Python)
   - [Subdomain Enumeration Script (asynchronous)](https://github.com/bryanemtman/Python/tree/main/Subdomain-Enumeration)
   - [Diffie-Hellman Key Exchange Script](https://github.com/bryanemtman/Python/tree/main/Diffie-Hellman)
   - [Caesar Cipher Scripts](https://github.com/bryanemtman/Python/tree/main/Caesar)
-  - [ARP Spoofing](https://github.com/bryanemtman/Python) (...In Progress)
 - <b>Webpage Development</b>
   - [Portfolio Website Example (static)](https://github.com/bryanemtman/webpages) (...In Progress)
   - [Login Page (Input Validation)](https://github.com/bryanemtman/webpages) (...In Progress)
