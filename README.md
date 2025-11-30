@@ -1,6 +1,6 @@
 <h1>Hi, I'm Bryan! <br/>Aspiring <a href="https://www.linkedin.com/in/bryanemtman/">Cybersecurity Professional</a></h1>
 
-<h2>🖥️ Software Development Projects:</h2>
+<h2>🖥️ My Projects & Scripts:</h2>
 
 - <b>Bash</b>
   - [ICMP Payload Script](https://github.com/bryanemtman/Bash-Scripts/tree/main/ICMP-Payload)
