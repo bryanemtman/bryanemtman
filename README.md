@@ -10,9 +10,9 @@
   - [Multi-Host Ping](https://github.com/bryanemtman/Bash-Scripts/tree/main/Multi-Host-Ping)
   - [Subnetting Script](https://github.com/bryanemtman/Bash-Scripts/tree/main/Subnetting)
 - <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Windows EventLog: Failed Logins Source IP to full GeoData Conversion](https://github.com/bryanemtman/Powershell-Scripts/tree/main/Failed-Login-Parser)
+  - [Active Directory Bulk User Management](https://github.com/joshmadakor1/AD_PS) (...In Progress)
+  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM) (...In Progress)
   - [Port-scanning with PowerShell](https://github.com/bryanemtman/) (...In Progress)
   - [ICMP Payload Script (PowerShell Version)](https://github.com/bryanemtman/) (...In Progress)
 - <b>Python</b>
