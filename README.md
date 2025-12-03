@@ -2,6 +2,11 @@
 
 <h2>🖥️ My Projects & Scripts:</h2>
 
+- <b>Python</b>
+  - [ARP Spoofing & Man-in-the-Middle Script](https://github.com/bryanemtman/Python/tree/main/ARP-Spoofing-MITM)
+  - [Subdomain Enumeration Script (asynchronous)](https://github.com/bryanemtman/Python/tree/main/Subdomain-Enumeration)
+  - [Diffie-Hellman Key Exchange Script](https://github.com/bryanemtman/Python/tree/main/Diffie-Hellman)
+  - [Caesar Cipher Scripts](https://github.com/bryanemtman/Python/tree/main/Caesar)
 - <b>Bash</b>
   - [ICMP Payload Script](https://github.com/bryanemtman/Bash-Scripts/tree/main/ICMP-Payload)
   - [SSH Dictionary Attack (With Discord Notification)](https://github.com/bryanemtman/Bash-Scripts/tree/main/SSH-Dictionary-Attack)
@@ -13,13 +18,8 @@
   - [Windows EventLog: Failed Logins Source IP to full GeoData Conversion](https://github.com/bryanemtman/Powershell-Scripts/tree/main/Failed-Login-Parser)
   - [Active Directory Bulk User Management](https://github.com/joshmadakor1/AD_PS) (...In Progress)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM) (...In Progress)
-  - [Port-scanning with PowerShell](https://github.com/bryanemtman/) (...In Progress)
+  - [Port-scanning with PowerShell Sockets](https://github.com/bryanemtman/Powershell-Scripts/tree/main/Port-Scanner)
   - [ICMP Payload Script (PowerShell Version)](https://github.com/bryanemtman/) (...In Progress)
-- <b>Python</b>
-  - [ARP Spoofing & Man-in-the-Middle Script](https://github.com/bryanemtman/Python/tree/main/ARP-Spoofing-MITM)
-  - [Subdomain Enumeration Script (asynchronous)](https://github.com/bryanemtman/Python/tree/main/Subdomain-Enumeration)
-  - [Diffie-Hellman Key Exchange Script](https://github.com/bryanemtman/Python/tree/main/Diffie-Hellman)
-  - [Caesar Cipher Scripts](https://github.com/bryanemtman/Python/tree/main/Caesar)
 - <b>Webpage Development</b>
   - [Portfolio Website Example (static)](https://github.com/bryanemtman/webpages) (...In Progress)
   - [Login Page (Input Validation)](https://github.com/bryanemtman/webpages) (...In Progress)
