@@ -16,10 +16,9 @@
   - [Subnetting Script](https://github.com/bryanemtman/Bash-Scripts/tree/main/Subnetting)
 - <b>PowerShell</b>
   - [Windows EventLog: Failed Logins Source IP to full GeoData Conversion](https://github.com/bryanemtman/Powershell-Scripts/tree/main/Failed-Login-Parser)
-  - [Active Directory Bulk User Management](https://github.com/joshmadakor1/AD_PS) (...In Progress)
+  - [ICMP Payload Script (PowerShell & Sockets)](https://github.com/bryanemtman/Powershell-Scripts/tree/main/ICMP)
   - [FIM (File Integrity Monitor)](https://github.com/bryanemtman/Powershell-Scripts/tree/main/FIM)
   - [Port-scanning with PowerShell Sockets](https://github.com/bryanemtman/Powershell-Scripts/tree/main/Port-Scanner)
-  - [ICMP Payload Script (PowerShell Version)](https://github.com/bryanemtman/) (...In Progress)
 - <b>Webpage Development</b>
   - [Portfolio Website Example (static)](https://github.com/bryanemtman/webpages) (...In Progress)
   - [Login Page (Input Validation)](https://github.com/bryanemtman/webpages) (...In Progress)
