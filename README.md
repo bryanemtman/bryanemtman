@@ -20,8 +20,8 @@
   - [FIM (File Integrity Monitor)](https://github.com/bryanemtman/Powershell-Scripts/tree/main/FIM)
   - [Port-scanning with PowerShell Sockets](https://github.com/bryanemtman/Powershell-Scripts/tree/main/Port-Scanner)
 - <b>Webpage Development</b>
-  - [Portfolio Website Example (static)](https://github.com/bryanemtman/webpages) (...In Progress)
-  - [Login Page (Input Validation)](https://github.com/bryanemtman/webpages) (...In Progress)
+  - [Portfolio Website Example (static)](https://bryanemtman.github.io/webpages/portfolio/)
+  - [Phishing Site of Google Sign In](https://github.com/bryanemtman/webpages/tree/main/Phishing)
 - <b>Cybersecurity Labs</b>
   - [Setting up domain controllers in Windows Server virtual machines (DNS, DHCP, Active Directory)](https://github.com/bryanemtman/cybersecurity-labs) (...In Progress)
   - [Configuring Azure-based SIEMs with IDS integration](https://github.com/bryanemtman/cybersecurity-labs) (...In Progress)
